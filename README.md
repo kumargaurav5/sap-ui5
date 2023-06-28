@@ -111,3 +111,7 @@ this.myModel=this.getOwnerComponent().getModel("myModel");
 ```jsx
  this.getView().setModel(this.myModel,"myModel");
 ```
+
+```jsx
+ this.getView().setModel(this.myModel,"myModel");
+```
